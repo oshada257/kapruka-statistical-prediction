@@ -1,0 +1,11 @@
+method,combination,n1,n2,n3,n4,super_number,letter
+Frequency,1,34,52,58,65,4,Z
+Frequency,2,10,35,57,59,15,Y
+Frequency,3,17,34,48,62,23,B
+Frequency,4,27,47,57,63,39,X
+Random,1,16,53,61,79,2,O
+Random,2,12,54,58,74,17,I
+Random,3,7,29,38,70,6,R
+Balanced,1,14,19,49,64,27,Y
+Balanced,2,8,17,66,73,29,C
+Balanced,3,13,32,58,73,33,V
